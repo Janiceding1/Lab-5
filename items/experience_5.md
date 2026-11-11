@@ -1,1 +1,3 @@
-Experience 5 here.
+# Experience 5: Playing Badminton
+
+I started playing badminton when I was younger and continued playing throughout high school and university. During university, I regularly played badminton with friends and family during my free time, especially on weekends. One thing I enjoyed about badminton is being able to stay active and maintain my relationships. It also allowed me to take a break from schoolwork and reduce stress after a busy week. One of my favourite memories was playing badminton with friends and family at the Laurier badminton club. However, one thing I did not enjoy was how frustrating it was when I wasn't performing as well as I wanted to. Overall, I would give this experience an A because badminton has helped me maintain a healthy lifestyle, improve my skills, and create good memories with friends and family. It also connects to my future goal of maintaining a good work-life balance while working full-time as a UX designer.
