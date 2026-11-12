@@ -1,4 +1,3 @@
-
 class XCenter extends HTMLElement {
     connectedCallback() {
         this.style.display = "block";
